@@ -3,5 +3,7 @@
 
 class FizzBuzz
 
+  def fizzbuzz
 
+  end
 end
